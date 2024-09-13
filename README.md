@@ -13,6 +13,11 @@ JavaScript
 Project Setup
 Clone the Repository
 
+## Live Demo
+
+You can view the live demo of the project here: [Front Uyg Live Demo](https://dicle-123.github.io/front_uyg/)
+
+
 bash
 
 git clone https://github.com/dicle-123/front_uyg.git
